@@ -12,7 +12,7 @@
         "version": "1.0.0.0",
         "changelog": "Initial release of CableCast plugin:\n- Create virtual cable TV channels\n- Schedule-based and continuous programming\n- Commercial insertion between content\n- Pre-roll content support\n- Content filtering by genre, rating, year, etc.\n- RESTful API for channel management\n- Background service for continuous operation",
         "targetAbi": "10.9.0.0",
-        "sourceUrl": "https://github.com/noahbranch/jellyfincable/raw/refs/heads/main/repository/Jellyfin.Plugin.CableCast.dll",
+        "sourceUrl": "https://github.com/thehearthz/jellyfincable/raw/refs/heads/main/repository/Jellyfin.Plugin.CableCast.dll",
         "checksum": "26f39f368332d2ad16aa87456426c544",
         "timestamp": "2024-12-28T00:00:00Z"
       }
